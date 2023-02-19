@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Paulo Silveira Junior', 5000.00, TIMESTAMP WITH TIME ZONE '1980-07-13T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Joana dos Santos', 1000.00, TIMESTAMP WITH TIME ZONE '1976-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Camila da Silva', 900.00, TIMESTAMP WITH TIME ZONE '1992-07-13T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Andre Oliveira', 1700.00, TIMESTAMP WITH TIME ZONE '2000-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('João Silveira Junior', 15000.00, TIMESTAMP WITH TIME ZONE '1982-07-13T20:50:07.12345Z', 5);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Silveira', 5400.00, TIMESTAMP WITH TIME ZONE '1980-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Eduiardo Antunes', 4000.00, TIMESTAMP WITH TIME ZONE '1981-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Jomar', 5020.00, TIMESTAMP WITH TIME ZONE '1980-07-13T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Gabriel Souza', 2000.00, TIMESTAMP WITH TIME ZONE '1960-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, income, birth_Date, children) VALUES ('Leonardo Soares', 2100.00, TIMESTAMP WITH TIME ZONE '1999-07-13T20:50:07.12345Z', 0);
